@@ -1,5 +1,8 @@
-### Hi there 👋
+### hey :)
 
+my name is hayley and i am a senior at unc chapel hill studying computer science and philosophy, interested in frontend web development, ui/ux design, and data visualization. 
+
+my resume
 <!--
 **haowens/haowens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

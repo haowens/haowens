@@ -1,5 +1,4 @@
 # 🌨️ 🏙️ 🍵 🎧 📷
-![image](https://github.com/haowens/haowens/assets/69762131/387daa6a-b7ab-4bc6-aca3-b3201aea14ab)
 
 
 

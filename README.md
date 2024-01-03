@@ -1,6 +1,9 @@
 # 🌨️ 🏙️ 🍵 🎧 📷
 
-<img width="525" alt="image" src="https://github.com/haowens/haowens/assets/69762131/88d6f8eb-7bab-4b40-acff-86f725473e69">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hhayleyowens&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- <img width="500" alt="image" src="https://github.com/haowens/haowens/assets/69762131/88d6f8eb-7bab-4b40-acff-86f725473e69"/> -->
+
 
 
 <!--

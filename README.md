@@ -1,4 +1,4 @@
-# 🌨️ 🎧 
+# 🌨️ 🌨️ 🌨️ 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hhayleyowens&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 

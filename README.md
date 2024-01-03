@@ -1,5 +1,6 @@
 # 🌨️ 🏙️ 🍵 🎧 📷
 
+<img width="650" alt="image" src="https://github.com/haowens/haowens/assets/69762131/88d6f8eb-7bab-4b40-acff-86f725473e69">
 
 
 <!--
